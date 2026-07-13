@@ -6,17 +6,17 @@ A predictive analytics-based graduate tracer system that leverages machine learn
 
 ## Table of Contents
 
-1. #project-overview
-2. #installation
-3. #usage
-4. #dataset-information
-5. #model-training-and-evaluation
-6. #research-objectives
-7. Technologies
-8. #project-structure
-9. Results
-10. #contributors
-11. #status
+1. [Project Overview](#project-overview)
+2. [Installation](#installation)
+3. [Usage](#usage)
+4. [Dataset Information](#dataset-information)
+5. [Model Training and Evaluation](#model-training-and-evaluation)
+6. [Research Objectives](#research-objectives)
+7. [Technologies](#technologies)
+8. [Project Structure](#project-structure)
+9. [Results](#results)
+10. [Contributors](#contributors)
+11. [Status](#status)
 
 ---
 
