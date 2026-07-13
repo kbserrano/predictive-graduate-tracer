@@ -1,19 +1,19 @@
 # ML-Based Graduate Tracer System 🎓
 
 A predictive analytics-based graduate tracer system that leverages machine learning to analyze alumni outcomes, identify employability patterns, and generate data-driven insights for educational institutions. This project aims to transform traditional graduate tracer studies from descriptive reporting into a predictive decision-support tool that supports curriculum enhancement, career guidance, quality assurance, and institutional planning.
+
 ---
 
 ## Table of Contents
 
-1. #project-overview
-2. Installation
-3. #usage
-4. #dataset-information
-5. #model-training-and-evaluation
-6. #research-objectives
-7. #project-structure
-8. #results
-9. #contributors
+- [project-overview
+- [Installation](#installationaset-information
+- [Model Training and-evaluation
+- [Research Objectives
+- [Technologies- #project-structure
+- #results
+- [Conributors
+- #status
 
 ---
 
