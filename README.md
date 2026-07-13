@@ -1,3 +1,5 @@
+<a id="top"></a>
+
 # ML-Based Graduate Tracer System 🎓
 
 A predictive analytics-based graduate tracer system that leverages machine learning to analyze alumni outcomes, identify employability patterns, and generate data-driven insights for educational institutions. This project aims to transform traditional graduate tracer studies from descriptive reporting into a predictive decision-support tool that supports curriculum enhancement, career guidance, quality assurance, and institutional planning.
@@ -46,6 +48,8 @@ The project compares the predictive performance of multiple machine learning alg
 - Graduate outcome reporting
 - Decision-support insights for educational institutions
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ---
 
 ## Installation
@@ -69,6 +73,8 @@ pip install -r requirements.txt
 ```bash
 jupyter notebook
 ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -97,6 +103,8 @@ python 2_EDA_final.py
 ```bash
 # Flask application under development
 ```
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -130,6 +138,8 @@ The employment outcome is classified into the following categories:
 - Slow Employment
 - Not Employed
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ---
 
 ## Model Training and Evaluation
@@ -155,6 +165,8 @@ The machine learning workflow includes:
 - Generate feature importance rankings
 - Provide actionable institutional insights
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ---
 
 ## Research Objectives
@@ -168,6 +180,8 @@ This study seeks to:
 - Support curriculum enhancement through data-driven insights.
 - Assist career guidance initiatives and intervention planning.
 - Strengthen institutional decision-making through predictive analytics.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -207,6 +221,8 @@ This study seeks to:
 - Git
 - GitHub
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ---
 
 ## Project Structure
@@ -227,11 +243,13 @@ ml-based-graduate-tracer-system/
 └── flask_app/ (In Progress)
 ```
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ---
 
 ## Results
 
-🚧 Work in Progress
+🚧 **Work in Progress**
 
 Planned outputs include:
 
@@ -240,6 +258,8 @@ Planned outputs include:
 - Employability factor analysis
 - Predictive dashboards
 - Institutional reports and recommendations
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
 
@@ -254,6 +274,8 @@ Planned outputs include:
 
 GitHub Profile: *Add your GitHub profile URL here*
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ---
 
 ## Status
@@ -261,3 +283,5 @@ GitHub Profile: *Add your GitHub profile URL here*
 🚧 **Work in Progress**
 
 This project is currently under active development as part of graduate research in Data Analytics and Machine Learning.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
