@@ -1,4 +1,4 @@
-<a id="top"></a>
+<img width="468" height="24" alt="image" src="https://github.com/user-attachments/assets/1f66aeaf-a64e-4d1e-831e-f8740a26b3d9" /><a id="top"></a>
 
 # ML-Based Graduate Tracer System 🎓
 
@@ -28,9 +28,9 @@ This project applies Educational Data Mining (EDM) and Machine Learning techniqu
 
 ### Machine Learning Models
 
+- Multinomial Logistic Regression
+- Support Vector Machine (SVM)
 - Random Forest
-- XGBoost
-- LightGBM
 - CatBoost
 
 The project compares the predictive performance of multiple machine learning algorithms and identifies the best-performing model for employment outcome prediction.
@@ -199,9 +199,9 @@ This study seeks to:
 
 ### Machine Learning
 
+- Multinomial Logistic Regression
+- Support Vector Machine (SVM)
 - Random Forest
-- XGBoost
-- LightGBM
 - CatBoost
 
 ### Web Development
@@ -272,7 +272,7 @@ Planned outputs include:
 - Machine Learning Enthusiast
 - College Professor
 
-GitHub Profile: *Add your GitHub profile URL here*
+GitHub Profile: https://github.com/kbserrano
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
