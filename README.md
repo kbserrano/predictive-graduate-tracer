@@ -1,7 +1,6 @@
 # ML-Based Graduate Tracer System 🎓
 
-A predictive analytics-based graduate tracer system that leverages machine learning to analyze alumni outcomes, identify employability patterns, and generate data-driven insights for educational institutions. This project aims to transform traditional graduate tracer studies from descriptive reporting into a predictive decision-support tool that supports curriculum enhancement, career guidance, quality assurance, and institutional planning. [1](https://bulsumain-my.sharepoint.com/personal/2020108047_ms_bulsu_edu_ph/_layouts/15/Doc.aspx?sourcedoc=%7B581D4DFD-2A53-4A83-90B7-F2CFB329F79D%7D&file=CHAPTER%201.docx&action=default&mobileredirect=true)
-
+A predictive analytics-based graduate tracer system that leverages machine learning to analyze alumni outcomes, identify employability patterns, and generate data-driven insights for educational institutions. This project aims to transform traditional graduate tracer studies from descriptive reporting into a predictive decision-support tool that supports curriculum enhancement, career guidance, quality assurance, and institutional planning.
 ---
 
 ## Table of Contents
@@ -20,7 +19,7 @@ A predictive analytics-based graduate tracer system that leverages machine learn
 
 ## Project Overview
 
-This project applies Educational Data Mining (EDM) and Machine Learning techniques to graduate tracer data to predict employment outcomes and discover factors associated with graduate employability. The system classifies graduates into employment outcome categories and provides predictive insights that can support institutional decision-making. [1](https://bulsumain-my.sharepoint.com/personal/2020108047_ms_bulsu_edu_ph/_layouts/15/Doc.aspx?sourcedoc=%7B581D4DFD-2A53-4A83-90B7-F2CFB329F79D%7D&file=CHAPTER%201.docx&action=default&mobileredirect=true)
+This project applies Educational Data Mining (EDM) and Machine Learning techniques to graduate tracer data to predict employment outcomes and discover factors associated with graduate employability. The system classifies graduates into employment outcome categories and provides predictive insights that can support institutional decision-making.
 
 ### Machine Learning Models
 
@@ -29,7 +28,7 @@ This project applies Educational Data Mining (EDM) and Machine Learning techniqu
 - LightGBM
 - CatBoost
 
-The project compares the predictive performance of multiple machine learning algorithms and identifies the best-performing model for employment outcome prediction. [1](https://bulsumain-my.sharepoint.com/personal/2020108047_ms_bulsu_edu_ph/_layouts/15/Doc.aspx?sourcedoc=%7B581D4DFD-2A53-4A83-90B7-F2CFB329F79D%7D&file=CHAPTER%201.docx&action=default&mobileredirect=true)
+The project compares the predictive performance of multiple machine learning algorithms and identifies the best-performing model for employment outcome prediction.
 
 ### Key Features
 
@@ -100,7 +99,7 @@ python 2_EDA_final.py
 
 ## Dataset Information
 
-The study utilizes anonymized graduate tracer data obtained from the City College of San Fernando, Pampanga (CCSFP). Personal identifiers such as names, addresses, student numbers, and contact information are excluded in compliance with data privacy regulations. [1](https://bulsumain-my.sharepoint.com/personal/2020108047_ms_bulsu_edu_ph/_layouts/15/Doc.aspx?sourcedoc=%7B581D4DFD-2A53-4A83-90B7-F2CFB329F79D%7D&file=CHAPTER%201.docx&action=default&mobileredirect=true)[2](https://bulsumain-my.sharepoint.com/personal/2020108047_ms_bulsu_edu_ph/Documents/Microsoft%20Copilot%20Chat%20Files/1_data_preparation_final%20%283%29.py)
+The study utilizes anonymized graduate tracer data obtained from the City College of San Fernando, Pampanga (CCSFP). Personal identifiers such as names, addresses, student numbers, and contact information are excluded in compliance with data privacy regulations.
 
 ### Predictor Variables
 
@@ -126,7 +125,7 @@ The employment outcome is classified into the following categories:
 - Fast Employment
 - Moderate Employment
 - Slow Employment
-- Not Employed[1](https://bulsumain-my.sharepoint.com/personal/2020108047_ms_bulsu_edu_ph/_layouts/15/Doc.aspx?sourcedoc=%7B581D4DFD-2A53-4A83-90B7-F2CFB329F79D%7D&file=CHAPTER%201.docx&action=default&mobileredirect=true)[2](https://bulsumain-my.sharepoint.com/personal/2020108047_ms_bulsu_edu_ph/Documents/Microsoft%20Copilot%20Chat%20Files/1_data_preparation_final%20%283%29.py)
+- Not Employed
 
 ---
 
@@ -153,8 +152,6 @@ The machine learning workflow includes:
 - Generate feature importance rankings
 - Provide actionable institutional insights
 
-[1](https://bulsumain-my.sharepoint.com/personal/2020108047_ms_bulsu_edu_ph/_layouts/15/Doc.aspx?sourcedoc=%7B581D4DFD-2A53-4A83-90B7-F2CFB329F79D%7D&file=CHAPTER%201.docx&action=default&mobileredirect=true)[2](https://bulsumain-my.sharepoint.com/personal/2020108047_ms_bulsu_edu_ph/Documents/Microsoft%20Copilot%20Chat%20Files/1_data_preparation_final%20%283%29.py)[3](https://bulsumain-my.sharepoint.com/personal/2020108047_ms_bulsu_edu_ph/Documents/Microsoft%20Copilot%20Chat%20Files/2_EDA_final.py)
-
 ---
 
 ## Research Objectives
@@ -167,8 +164,7 @@ This study seeks to:
 - Discover important employability patterns from alumni data.
 - Support curriculum enhancement through data-driven insights.
 - Assist career guidance initiatives and intervention planning.
-- Strengthen institutional decision-making through predictive analytics.[1](https://bulsumain-my.sharepoint.com/personal/2020108047_ms_bulsu_edu_ph/_layouts/15/Doc.aspx?sourcedoc=%7B581D4DFD-2A53-4A83-90B7-F2CFB329F79D%7D&file=CHAPTER%201.docx&action=default&mobileredirect=true)
-
+- Strengthen institutional decision-making through predictive analytics.
 ---
 
 ## Technologies
@@ -206,8 +202,6 @@ This study seeks to:
 
 - Git
 - GitHub
-
-[2](https://bulsumain-my.sharepoint.com/personal/2020108047_ms_bulsu_edu_ph/Documents/Microsoft%20Copilot%20Chat%20Files/1_data_preparation_final%20%283%29.py)[1](https://bulsumain-my.sharepoint.com/personal/2020108047_ms_bulsu_edu_ph/_layouts/15/Doc.aspx?sourcedoc=%7B581D4DFD-2A53-4A83-90B7-F2CFB329F79D%7D&file=CHAPTER%201.docx&action=default&mobileredirect=true)[3](https://bulsumain-my.sharepoint.com/personal/2020108047_ms_bulsu_edu_ph/Documents/Microsoft%20Copilot%20Chat%20Files/2_EDA_final.py)
 
 ---
 
