@@ -6,12 +6,14 @@ A predictive analytics-based graduate tracer system that leverages machine learn
 
 ## Table of Contents
 
-1. [Project-overview
+1. #project-overview
 2. #installation
-3. [Usage](#usageaset-information
-5. [Model Training-and-evaluation
-6. [Research-objectives
-7. [Technologies](#technologiesucture
+3. #usage
+4. #dataset-information
+5. #model-training-and-evaluation
+6. #research-objectives
+7. Technologies
+8. #project-structure
 9. Results
 10. #contributors
 11. #status
@@ -48,7 +50,7 @@ The project compares the predictive performance of multiple machine learning alg
 
 ## Installation
 
-### Clone the repository
+### Clone the Repository
 
 ```bash
 git clone https://github.com/yourusername/ml-based-graduate-tracer-system.git
@@ -56,7 +58,7 @@ git clone https://github.com/yourusername/ml-based-graduate-tracer-system.git
 cd ml-based-graduate-tracer-system
 ```
 
-### Install dependencies
+### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -166,6 +168,7 @@ This study seeks to:
 - Support curriculum enhancement through data-driven insights.
 - Assist career guidance initiatives and intervention planning.
 - Strengthen institutional decision-making through predictive analytics.
+
 ---
 
 ## Technologies
@@ -221,7 +224,7 @@ ml-based-graduate-tracer-system/
 ├── README.md
 ├── requirements.txt
 │
-└── flask_app/  (In Progress)
+└── flask_app/ (In Progress)
 ```
 
 ---
