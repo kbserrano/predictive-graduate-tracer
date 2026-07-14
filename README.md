@@ -1,5 +1,3 @@
-<img width="468" height="24" alt="image" src="https://github.com/user-attachments/assets/1f66aeaf-a64e-4d1e-831e-f8740a26b3d9" /><a id="top"></a>
-
 # ML-Based Graduate Tracer System 🎓
 
 A predictive analytics-based graduate tracer system that leverages machine learning to analyze alumni outcomes, identify employability patterns, and generate data-driven insights for educational institutions. This project aims to transform traditional graduate tracer studies from descriptive reporting into a predictive decision-support tool that supports curriculum enhancement, career guidance, quality assurance, and institutional planning.
@@ -175,7 +173,7 @@ This study seeks to:
 
 - Identify factors that influence graduate employability.
 - Predict graduate employment outcomes using machine learning.
-- Compare the performance of Random Forest, XGBoost, LightGBM, and CatBoost models.
+- Compare the performance of Multinomial Logistic Regression, Support Vector Machine, Random Forest, and CatBoost models.
 - Discover important employability patterns from alumni data.
 - Support curriculum enhancement through data-driven insights.
 - Assist career guidance initiatives and intervention planning.
